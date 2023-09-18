@@ -37,8 +37,10 @@ Strikethrough uses two tildes.~~Search this:~~
 >> ...2. 2nd
 >> 
 >4.And anothher item.
->> ..* note1 
->> ...*note2 
+>> ..* note1
+>> 
+>> ...*note2
+>> 
 >> *** note3 
 
 
