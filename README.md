@@ -5,7 +5,7 @@
 ##### 楊靜玟 C110118126
 ###### 楊靜玟 C110118126
 
-![NKUST](nksut.png "高科大")
+![NKUST](NKUST.png "高科大")
 
 
 ```python
