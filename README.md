@@ -45,4 +45,8 @@ Strikethrough uses two tildes.~~Search this:~~
 |zebra stripes|are neat       |    $1|
 |test   |測試  | $3333|
 
+|Markdown |Less |Pretty|
+|:--------|:------:|----------:|
+|Still    |renders | **nicely**|
+|1        |2       |   $12|
 
