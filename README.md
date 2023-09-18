@@ -34,7 +34,7 @@ Strikethrough uses two tildes.~~Search this:~~
 >3. Actual numbers don't matter,just that it's a number
 >> ..1. Ordered sub-list
 >> 
->> ...2. 2nd
+>> ..2. 2nd
 >> 
 >4.And anothher item.
 >> ..* note1
