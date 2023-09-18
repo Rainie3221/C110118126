@@ -21,6 +21,7 @@ print(s)
 var s = "javascript syntax text";
 alert(s)
 ```
-
-
+Emphasis, aka italics, with asteriks or underscores.
+Strong emphasis, aka bold, with **asterisks** or **underscores.**
+Combined 
 
