@@ -1,8 +1,10 @@
 # 甘特圖
-mermaid
+#### Mermaid
+```mermaid
 gantt
-    title 甘特圖
+    title C110118126任務清單
 
+    title 甘特圖
     section 任務
     研礙計劃           :a1, 2023-10-01, 3d
     任務分配           :a2, after a1  , 3d
@@ -15,6 +17,7 @@ gantt
     系統測試           :a9, after a6  , 30d
     使用者訓練         :a10, after a7  , 23d
     使用者測試         :a11, after a9  , 30d
+```
 
 #PERT圖
 
