@@ -21,5 +21,6 @@ gantt
 
 #PERT
 ![PERT](PERT.png "PERT")
+
 #關鍵路徑
 
