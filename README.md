@@ -12,6 +12,13 @@
 - [ ] 3rd thing
 - [ ] 4th thing
 
+`small zone`
+---
+```
+1
+2
+```
+
 ```python
 s = "Python Highlights Syntax"
 print(s)
