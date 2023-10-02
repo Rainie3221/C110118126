@@ -19,22 +19,7 @@ gantt
     使用者測試         :a11, after a9  , 30d
 ```
 
-```graphviz
-digraph {
-	node[shape=record];
-	rankdir="LR";
-    no1 [label = "取得授權 | 編號:1 | 開始:第1天 | 結束:第10天 | 需時:10天"]
-    no2 [label = "聘僱分析師 | 編號:2 | 開始:第11天 | 結束:第40天 | 需時:30天"]
-    no1->no2
-    no3 [label = "規劃訓練 | 編號:3 | 開始:第41天 | 結束:第55天 | 需時:15天"]
-    no4 [label = "安排後勤 | 編號:4 | 開始:第41天 | 結束:第60天 | 需時:20天"]
-    {rank=same;no3 no4}
-    no2->no3
-    no2->no4
-    no5 [label = "宣告訓練 | 編號:5 | 開始:第61天 | 結束:第90天 | 需時:30天"]
-    no3->no5
-    no4->no5
-}
-```
+#PERT
+![PERT](PERT.png "PERT")
 #關鍵路徑
 
